@@ -1,6 +1,21 @@
 # cbsapperals
 
-A new Flutter project.
+## Key Features
+
+- **Vendor-Friendly Platform:** Empower suppliers to easily upload and showcase their wedding clothing collections.
+
+- **Seamless Shopping Experience:** Buyers can explore and purchase a wide variety of wedding attire for every member of the wedding party.
+
+- **Robust Product Management:** Sellers can efficiently manage their product listings, ensuring an up-to-date inventory.
+
+- **Inventory Tracking:** Keep tabs on your inventory levels.
+
+- **Order Processing:** Manage and process customer orders seamlessly within the app.
+
+- **Secure Authentication:** User authentication through Firebase ensures data security and enables personalized experiences.
+
+- **Delivery Tracking:** Buyers can track their orders, including real-time status updates and estimated delivery times.
+
 
 ## Getting Started
 
